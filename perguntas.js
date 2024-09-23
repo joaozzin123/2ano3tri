@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'como se diz, eu tenho 15 anos em Inglês?',
+    'se diz, I am fifteen years old'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual o menor país do Mundo?',
+    'O menor país do mundo é o vaticano'
+)
