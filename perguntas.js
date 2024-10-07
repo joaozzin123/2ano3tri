@@ -36,21 +36,8 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais',
-    '1. Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?',
-    'Marie Curie'
-)
-
-criaCartao(
-    'Conhecimentos Gerais',
     '2. Qual a obra de arte mais cara já arrematada em um leilão?',
     'Salvator Mundi, de Leonardo da Vinci'
-)
-
-criaCartao(
-    'Conhecimentos Gerais',
-    '3. Pela primeira vez na história, as Olimpíadas de Tóquio 2020 foram adiadas, devido à Covid-19. Quais as edições que foram canceladas?
-',
-    'Berlim 1916, Tóquio 1940 e Londres 1944.'
 )
 
 criaCartao(
