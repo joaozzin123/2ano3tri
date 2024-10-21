@@ -48,5 +48,12 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais',
-    '5. Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes? '
-)   'Marie Curie'
+    '5. Quem foi a primeira mulher a viajar para o espaço?',
+    'Valentina Tereshkova'
+)
+
+criaCartao(
+    'Conhecimentos Gerais',
+    '6. Quem foi a primeira mulher a se eleger presidente de um país?',
+    'Vigdís Finnbogadóttir.'
+)
