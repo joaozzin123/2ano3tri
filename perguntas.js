@@ -45,3 +45,8 @@ criaCartao(
     '4. Qual o país mais novo do mundo??',
     'Sudão do Sul'
 )
+
+criaCartao(
+    'Conhecimentos Gerais',
+    '5. Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes? '
+)   'Marie Curie'
